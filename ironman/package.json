@@ -32,6 +32,6 @@
     "path": "^0.12.7",
     "promise": "^8.0.3",
     "request": "^2.87.0",
-    "sequelize": "^4.7.5"
+    "sequelize": "^5.15.1"
   }
 }
